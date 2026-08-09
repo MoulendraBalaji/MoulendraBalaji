@@ -181,12 +181,6 @@ Check out [all repositories →](https://github.com/MoulendraBalaji?tab=reposito
 
 <div align="center">
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MoulendraBalaji&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
