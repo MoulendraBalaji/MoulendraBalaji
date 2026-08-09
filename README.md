@@ -141,10 +141,6 @@ Check out [all repositories →](https://github.com/MoulendraBalaji?tab=reposito
 
 ## `> stats --github`
 
-> stats --github
-
-<> stats --github
-
 <div align="center">
   <!-- GitHub Stats (Denvercoder1 Fast Endpoint) -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MoulendraBalaji&show_icons=true&hide=prs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
