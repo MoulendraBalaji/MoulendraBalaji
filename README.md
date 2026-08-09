@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Moulendra%20Balaji&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%26%20Software%20Developer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Moulendra%20Balaji&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20and%20Software%20Developer%2C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Building+practical+AI+%2F+ML+solutions;Exploring+Operating+Systems+%26+Open+Source;Python+%7C+Machine+Learning+%7C+Web+Dev;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
