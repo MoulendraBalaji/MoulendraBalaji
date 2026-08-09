@@ -86,7 +86,8 @@ motto: "Build practical, working AI — then keep learning."
 <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes"/></a>
 <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch"/></a>
 <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/></a>
-<a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="36" height="36" alt="Hugging Face"/></a>
+<!-- Direct replacement with SimpleIcons (Reliable CDN) -->
+<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" width="36" height="36" alt="Hugging Face"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django"/></a>
 <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code"/></a>
@@ -140,14 +141,22 @@ Check out [all repositories →](https://github.com/MoulendraBalaji?tab=reposito
 
 ## `> stats --github`
 
+> stats --github
+
+<> stats --github
+
 <div align="center">
+  <!-- GitHub Stats (Denvercoder1 Fast Endpoint) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MoulendraBalaji&show_icons=true&hide=prs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoulendraBalaji&show_icons=true&hide=prs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoulendraBalaji&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoulendraBalaji&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoulendraBalaji&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="49%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoulendraBalaji&theme=tokyo-night&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" width="49%" alt="Activity Graph"/>
+  <!-- Top Languages (Denvercoder1 Fast Endpoint) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MoulendraBalaji&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="49%" alt="Top Languages"/>
 
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoulendraBalaji&theme=tokyo-night&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" width="49%" alt="Activity Graph"/>
 </div>
 
 ---
