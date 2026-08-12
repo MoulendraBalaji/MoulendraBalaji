@@ -165,8 +165,6 @@ Check out [all repositories →](https://github.com/MoulendraBalaji?tab=reposito
 
 </div>
 
-> 🐍 The animated snake above renders automatically once the included GitHub Action (see `snake.yml`) runs on your profile repo — see setup note at the bottom.
-
 ---
 
 ## `> connect --channels`
